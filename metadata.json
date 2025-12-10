@@ -1,0 +1,7 @@
+{
+  "name": "Axora AI Workspace",
+  "description": "A sophisticated AI workspace with project-based memory, multi-modal capabilities, and structural context management tailored for professional workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
